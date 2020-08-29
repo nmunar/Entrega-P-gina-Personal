@@ -105,7 +105,6 @@ body {
 
 footer {
   display: flex;
-  padding-block-start: 20px;
   color: seashell;
   background-color: #c4d4e9;
   align-items: center;
